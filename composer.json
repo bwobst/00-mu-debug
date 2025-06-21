@@ -1,0 +1,15 @@
+{
+  "name": "rkaiser0324/00-mu-debug",
+  "type": "wordpress-muplugin",
+  "license": "MIT",
+  "description": "A WordPress MU plugin to aid in debugging",
+  "homepage": "https://www.digipowers.com",
+  "authors": [],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {},
+  "require": {
+    "php": ">=7.0.0"
+  }
+}
