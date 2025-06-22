@@ -1,5 +1,5 @@
 {
-  "name": "rkaiser0324/00-mu-debug",
+  "name": "bwobst/00-mu-debug",
   "type": "wordpress-muplugin",
   "license": "MIT",
   "description": "A WordPress MU plugin to aid in debugging",
